@@ -1,0 +1,14 @@
+# Root level ignores
+node_modules/
+package-lock.json
+.DS_Store
+.idea/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS files
+Thumbs.db

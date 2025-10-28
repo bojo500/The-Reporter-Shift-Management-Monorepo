@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helpers to match the provided UI kit feel */
+body { @apply bg-gray-50; }

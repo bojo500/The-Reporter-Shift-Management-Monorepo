@@ -1,5 +1,5 @@
 {
-  "name": "reporter-shift-management",
+  "name": "reporter",
   "compatibility_date": "2025-10-29",
   "assets": {
     "directory": "./frontend/dist"
